@@ -1,2 +1,2 @@
 # Cab-booking-system-
-its a cab booking system near LPU(lovely professioanl university) , using python GUI .
+its a cab booking system near LPU(lovely professional university) , using python GUI .
