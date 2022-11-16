@@ -150,7 +150,7 @@ root = Tk()
 root.geometry('500x400')
 root.title("Cab Booking Site")
 
-image1 = Image.open("C://Users//mohdd//OneDrive//Desktop//Picture1.png")
+image1 = Image.open("C://Users//aakra//Downloads//Picture1.png")
 resize_img = image1.resize((250, 150))
 test = ImageTk.PhotoImage(resize_img)
 
